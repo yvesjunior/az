@@ -1,0 +1,87 @@
+{
+	"/subscriptions/5918db9c-25c1-4564-9079-665362a0b0c2/resourceGroups/CP-RG-WSS": {
+		"resource_id": "/subscriptions/5918db9c-25c1-4564-9079-665362a0b0c2/resourceGroups/CP-RG-WSS",
+		"resource_type": "azurerm_resource_group",
+		"resource_name": "res-0"
+	},
+	"/subscriptions/5918db9c-25c1-4564-9079-665362a0b0c2/resourceGroups/CP-RG-WSS/providers/Microsoft.Compute/virtualMachines/CPPD1VMWSSSQL01": {
+		"resource_id": "/subscriptions/5918db9c-25c1-4564-9079-665362a0b0c2/resourceGroups/CP-RG-WSS/providers/Microsoft.Compute/virtualMachines/CPPD1VMWSSSQL01",
+		"resource_type": "azurerm_windows_virtual_machine",
+		"resource_name": "res-1"
+	},
+	"/subscriptions/5918db9c-25c1-4564-9079-665362a0b0c2/resourceGroups/CP-RG-WSS/providers/Microsoft.Compute/virtualMachines/CPPD1VMWSSSQL01/dataDisks/CPPD1VMWSSSQL01-disk01": {
+		"resource_id": "/subscriptions/5918db9c-25c1-4564-9079-665362a0b0c2/resourceGroups/CP-RG-WSS/providers/Microsoft.Compute/virtualMachines/CPPD1VMWSSSQL01/dataDisks/CPPD1VMWSSSQL01-disk01",
+		"resource_type": "azurerm_virtual_machine_data_disk_attachment",
+		"resource_name": "res-2"
+	},
+	"/subscriptions/5918db9c-25c1-4564-9079-665362a0b0c2/resourceGroups/CP-RG-WSS/providers/Microsoft.Compute/virtualMachines/CPPD1VMWSSSQL01/extensions/BGInfo": {
+		"resource_id": "/subscriptions/5918db9c-25c1-4564-9079-665362a0b0c2/resourceGroups/CP-RG-WSS/providers/Microsoft.Compute/virtualMachines/CPPD1VMWSSSQL01/extensions/BGInfo",
+		"resource_type": "azurerm_virtual_machine_extension",
+		"resource_name": "res-3"
+	},
+	"/subscriptions/5918db9c-25c1-4564-9079-665362a0b0c2/resourceGroups/CP-RG-WSS/providers/Microsoft.Compute/virtualMachines/CPPD1VMWSSSQL01/extensions/DomainJoin": {
+		"resource_id": "/subscriptions/5918db9c-25c1-4564-9079-665362a0b0c2/resourceGroups/CP-RG-WSS/providers/Microsoft.Compute/virtualMachines/CPPD1VMWSSSQL01/extensions/DomainJoin",
+		"resource_type": "azurerm_virtual_machine_extension",
+		"resource_name": "res-4"
+	},
+	"/subscriptions/5918db9c-25c1-4564-9079-665362a0b0c2/resourceGroups/CP-RG-WSS/providers/Microsoft.Compute/virtualMachines/CPPD1VMWSSSQL01/extensions/MDE.Windows": {
+		"resource_id": "/subscriptions/5918db9c-25c1-4564-9079-665362a0b0c2/resourceGroups/CP-RG-WSS/providers/Microsoft.Compute/virtualMachines/CPPD1VMWSSSQL01/extensions/MDE.Windows",
+		"resource_type": "azurerm_virtual_machine_extension",
+		"resource_name": "res-5"
+	},
+	"/subscriptions/5918db9c-25c1-4564-9079-665362a0b0c2/resourceGroups/CP-RG-WSS/providers/Microsoft.Compute/virtualMachines/CPPD1VMWSSSQL01/extensions/Microsoft.Powershell.DSC": {
+		"resource_id": "/subscriptions/5918db9c-25c1-4564-9079-665362a0b0c2/resourceGroups/CP-RG-WSS/providers/Microsoft.Compute/virtualMachines/CPPD1VMWSSSQL01/extensions/Microsoft.Powershell.DSC",
+		"resource_type": "azurerm_virtual_machine_extension",
+		"resource_name": "res-6"
+	},
+	"/subscriptions/5918db9c-25c1-4564-9079-665362a0b0c2/resourceGroups/CP-RG-WSS/providers/Microsoft.Compute/virtualMachines/CPPD1VMWSSSQL01/extensions/MicrosoftDefenderForSQL": {
+		"resource_id": "/subscriptions/5918db9c-25c1-4564-9079-665362a0b0c2/resourceGroups/CP-RG-WSS/providers/Microsoft.Compute/virtualMachines/CPPD1VMWSSSQL01/extensions/MicrosoftDefenderForSQL",
+		"resource_type": "azurerm_virtual_machine_extension",
+		"resource_name": "res-7"
+	},
+	"/subscriptions/5918db9c-25c1-4564-9079-665362a0b0c2/resourceGroups/CP-RG-WSS/providers/Microsoft.Compute/virtualMachines/CPPD1VMWSSSQL01/extensions/PSScript": {
+		"resource_id": "/subscriptions/5918db9c-25c1-4564-9079-665362a0b0c2/resourceGroups/CP-RG-WSS/providers/Microsoft.Compute/virtualMachines/CPPD1VMWSSSQL01/extensions/PSScript",
+		"resource_type": "azurerm_virtual_machine_extension",
+		"resource_name": "res-8"
+	},
+	"/subscriptions/5918db9c-25c1-4564-9079-665362a0b0c2/resourceGroups/CP-RG-WSS/providers/Microsoft.Compute/virtualMachines/cppd1vmwsssql01/extensions/ChangeTracking-Windows": {
+		"resource_id": "/subscriptions/5918db9c-25c1-4564-9079-665362a0b0c2/resourceGroups/CP-RG-WSS/providers/Microsoft.Compute/virtualMachines/cppd1vmwsssql01/extensions/ChangeTracking-Windows",
+		"resource_type": "azurerm_virtual_machine_extension",
+		"resource_name": "res-9"
+	},
+	"/subscriptions/5918db9c-25c1-4564-9079-665362a0b0c2/resourceGroups/CP-RG-WSS/providers/Microsoft.Network/loadBalancers/CP-LBI-WSS-01": {
+		"resource_id": "/subscriptions/5918db9c-25c1-4564-9079-665362a0b0c2/resourceGroups/CP-RG-WSS/providers/Microsoft.Network/loadBalancers/CP-LBI-WSS-01",
+		"resource_type": "azurerm_lb",
+		"resource_name": "res-10"
+	},
+	"/subscriptions/5918db9c-25c1-4564-9079-665362a0b0c2/resourceGroups/CP-RG-WSS/providers/Microsoft.Network/loadBalancers/CP-LBI-WSS-01/backendAddressPools/CP-LBI-WSS-Pool-01-IP": {
+		"resource_id": "/subscriptions/5918db9c-25c1-4564-9079-665362a0b0c2/resourceGroups/CP-RG-WSS/providers/Microsoft.Network/loadBalancers/CP-LBI-WSS-01/backendAddressPools/CP-LBI-WSS-Pool-01-IP",
+		"resource_type": "azurerm_lb_backend_address_pool",
+		"resource_name": "res-11"
+	},
+	"/subscriptions/5918db9c-25c1-4564-9079-665362a0b0c2/resourceGroups/CP-RG-WSS/providers/Microsoft.Network/loadBalancers/CP-LBI-WSS-01/loadBalancingRules/SQLAlwaysOnEndPointListener": {
+		"resource_id": "/subscriptions/5918db9c-25c1-4564-9079-665362a0b0c2/resourceGroups/CP-RG-WSS/providers/Microsoft.Network/loadBalancers/CP-LBI-WSS-01/loadBalancingRules/SQLAlwaysOnEndPointListener",
+		"resource_type": "azurerm_lb_rule",
+		"resource_name": "res-12"
+	},
+	"/subscriptions/5918db9c-25c1-4564-9079-665362a0b0c2/resourceGroups/CP-RG-WSS/providers/Microsoft.Network/loadBalancers/CP-LBI-WSS-01/probes/SQLAlwaysOnEndPointProbe": {
+		"resource_id": "/subscriptions/5918db9c-25c1-4564-9079-665362a0b0c2/resourceGroups/CP-RG-WSS/providers/Microsoft.Network/loadBalancers/CP-LBI-WSS-01/probes/SQLAlwaysOnEndPointProbe",
+		"resource_type": "azurerm_lb_probe",
+		"resource_name": "res-13"
+	},
+	"/subscriptions/5918db9c-25c1-4564-9079-665362a0b0c2/resourceGroups/CP-RG-WSS/providers/Microsoft.Network/networkInterfaces/CPPD1VMWSSSQL01-Nic01": {
+		"resource_id": "/subscriptions/5918db9c-25c1-4564-9079-665362a0b0c2/resourceGroups/CP-RG-WSS/providers/Microsoft.Network/networkInterfaces/CPPD1VMWSSSQL01-Nic01",
+		"resource_type": "azurerm_network_interface",
+		"resource_name": "res-14"
+	},
+	"/subscriptions/5918db9c-25c1-4564-9079-665362a0b0c2/resourceGroups/CP-RG-WSS/providers/microsoft.compute/virtualMachines/cppd1vmwsssql01/extensions/AzureMonitorWindowsAgent": {
+		"resource_id": "/subscriptions/5918db9c-25c1-4564-9079-665362a0b0c2/resourceGroups/CP-RG-WSS/providers/Microsoft.Compute/virtualMachines/cppd1vmwsssql01/extensions/AzureMonitorWindowsAgent",
+		"resource_type": "azurerm_virtual_machine_extension",
+		"resource_name": "res-15"
+	},
+	"/subscriptions/5918db9c-25c1-4564-9079-665362a0b0c2/resourceGroups/cp-rg-wss/providers/Microsoft.Compute/virtualMachines/cppd1vmwsssql01/extensions/SqlIaasExtension": {
+		"resource_id": "/subscriptions/5918db9c-25c1-4564-9079-665362a0b0c2/resourceGroups/cp-rg-wss/providers/Microsoft.Compute/virtualMachines/cppd1vmwsssql01/extensions/SqlIaasExtension",
+		"resource_type": "azurerm_virtual_machine_extension",
+		"resource_name": "res-16"
+	}
+}

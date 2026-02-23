@@ -1,0 +1,17 @@
+{
+	"/subscriptions/5918db9c-25c1-4564-9079-665362a0b0c2/resourceGroups/CS-RG-WSS-ASR": {
+		"resource_id": "/subscriptions/5918db9c-25c1-4564-9079-665362a0b0c2/resourceGroups/CS-RG-WSS-ASR",
+		"resource_type": "azurerm_resource_group",
+		"resource_name": "res-0"
+	},
+	"/subscriptions/5918db9c-25c1-4564-9079-665362a0b0c2/resourceGroups/CS-RG-WSS-ASR/providers/Microsoft.Compute/disks/ESUT1VMWSSAPP01st1-ASRReplica": {
+		"resource_id": "/subscriptions/5918db9c-25c1-4564-9079-665362a0b0c2/resourceGroups/CS-RG-WSS-ASR/providers/Microsoft.Compute/disks/ESUT1VMWSSAPP01st1-ASRReplica",
+		"resource_type": "azurerm_managed_disk",
+		"resource_name": "res-1"
+	},
+	"/subscriptions/5918db9c-25c1-4564-9079-665362a0b0c2/resourceGroups/CS-RG-WSS-ASR/providers/Microsoft.Compute/disks/ESUT1VMWSSAPP01st2-ASRReplica": {
+		"resource_id": "/subscriptions/5918db9c-25c1-4564-9079-665362a0b0c2/resourceGroups/CS-RG-WSS-ASR/providers/Microsoft.Compute/disks/ESUT1VMWSSAPP01st2-ASRReplica",
+		"resource_type": "azurerm_managed_disk",
+		"resource_name": "res-2"
+	}
+}
