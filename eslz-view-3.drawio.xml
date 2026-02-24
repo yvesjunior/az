@@ -292,6 +292,9 @@
         <mxCell id="YAbrrg1R1vNUuTSOuPJh-7" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/VM_Scale_Sets.svg;" value="" vertex="1">
           <mxGeometry height="46" width="46" x="949" y="1414" as="geometry" />
         </mxCell>
+        <mxCell id="YAbrrg1R1vNUuTSOuPJh-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;MICROSOFT AZURE ENTERPRISE&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="250" x="10" y="67" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
