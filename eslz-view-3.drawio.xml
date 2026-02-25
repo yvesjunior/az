@@ -55,6 +55,15 @@
             <mxPoint x="327.6999999999998" y="362" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="0xnjT9KOFTUn5aO410Bh-79" edge="1" parent="0aTWkl1Uz5nIGkgNBMXI-131" style="endArrow=classic;html=1;rounded=0;dashed=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="804.1999999999998" y="243" />
+            </Array>
+            <mxPoint x="374.1999999999998" y="243" as="sourcePoint" />
+            <mxPoint x="804.1999999999998" y="-287" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="0aTWkl1Uz5nIGkgNBMXI-94" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#00CC00;strokeWidth=3;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
           <mxGeometry height="466.45" width="221.91" x="1917.49" y="227.54999999999995" as="geometry" />
         </mxCell>
@@ -98,6 +107,12 @@
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="125" y="287" as="sourcePoint" />
             <mxPoint x="298.4000000000001" y="287" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0xnjT9KOFTUn5aO410Bh-80" edge="1" parent="0aTWkl1Uz5nIGkgNBMXI-130" style="endArrow=classic;html=1;rounded=0;dashed=1;" target="0xnjT9KOFTUn5aO410Bh-78" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="411" y="298" as="sourcePoint" />
+            <mxPoint x="461" y="248" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YAbrrg1R1vNUuTSOuPJh-2" parent="1" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.region;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
@@ -521,6 +536,18 @@
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="1080" y="910" as="sourcePoint" />
             <mxPoint x="1130" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0xnjT9KOFTUn5aO410Bh-78" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Extensions.svg;" value="Extensions + Applications" vertex="1">
+          <mxGeometry height="83.69" width="85" x="2480" y="988" as="geometry" />
+        </mxCell>
+        <mxCell id="0xnjT9KOFTUn5aO410Bh-81" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.494;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" target="0xnjT9KOFTUn5aO410Bh-78" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="2522" y="460" />
+            </Array>
+            <mxPoint x="2083.8" y="460" as="sourcePoint" />
+            <mxPoint x="2133.8" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0xnjT9KOFTUn5aO410Bh-43" parent="0" value="canada-east" />
